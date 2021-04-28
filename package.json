@@ -1,0 +1,30 @@
+{
+  "name": "dius-shopping",
+  "version": "1.0.0",
+  "description": "Dius Shopping cart",
+  "main": "index.js",
+  "scripts": {
+	"start": "babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanduarj/Dius-shopping.git"
+  },
+  "author": "Siva Chandra",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5",
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jest": "^24.0.0",
+    "jest": "^26.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/chanduarj/Dius-shopping/issues"
+  },
+  "homepage": "https://github.com/chanduarj/Dius-shopping#readme"
+}
